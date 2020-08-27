@@ -68,6 +68,7 @@ namespace v0827
             label1.Top = rand.Next(Height);
             timer1.Enabled = true;
             label1.Text = "(＾ω＾)";
+            point += 100;
         }
     }
 }
